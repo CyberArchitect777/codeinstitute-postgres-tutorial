@@ -108,7 +108,7 @@ base.metadata.create_all(db)
 #programmer = session.query(Programmer).filter_by(id=7).first()
 #programmer.famous_for = "Code Institute"
 
-# commut our session to the database
+# commit our session to the database
 
 #session.commit()
 
